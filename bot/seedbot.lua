@@ -218,16 +218,16 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all",
+    "p",
+    "pl",
+    "f",
+    "anti",
     "leave_ban"
     },
     sudo_users = {131189448,146661928},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[fox v2
 
 Admins
 @tofaniyam
