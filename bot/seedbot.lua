@@ -222,6 +222,7 @@ function create_config( )
     "pl",
     "f",
     "anti",
+    "sudo",
     "leave_ban"
     },
     sudo_users = {131189448,146661928},--Sudo users
